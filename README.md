@@ -17,12 +17,22 @@
 ## Contacts
 <div>
   <a href="https://www.linkedin.com/in/kleber-vieira-honorato-b025a4333/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
 
+<div>
+<a href="https://github.com/Kleber98">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kleber98&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Kleber98&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
 
 <!-- 
 Site para pegar os Icones
 https://devicon.dev/
+
+Tabela do Info
+https://github.com/anuraghazra/github-readme-stats
+
+
 -->
 
