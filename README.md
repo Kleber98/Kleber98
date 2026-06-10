@@ -3,7 +3,7 @@
 # 👋 Hello! Welcome to my Github profile.
 ## My name is Kleber
 
-- 🔭 I’m currently not working on the dev area yet but I'm here to do my best, learn and be better
+- 🔭 I’m currently not working on the dev area, but I'm here to do my best, learn and do better
 - 💬 Ask me about arts and videos games, I really like to play some games
 - 📫 How to reach me: you can send me a message here or in my LinkedIn
 - 😄 Pronouns: He/Him
